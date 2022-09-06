@@ -49,8 +49,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.ashish-datacubed'
-                artifactId = 'Toaster-Example'
-                version = '0.1.0'
+                artifactId = 'ToasterLibrary'
+                version = '1.0.0'
             }
         }
     }
